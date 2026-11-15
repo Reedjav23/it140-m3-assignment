@@ -10,18 +10,7 @@
 
 START paycheck_calculator
 
-    TODO: Obtain the required program input.
-
-    IF TODO: Specify the condition for the applicable pay rule.
-        TODO: List the processing steps for the true decision path.
-    ELSE
-        TODO: List the processing steps for the false decision path.
-    ENDIF
-
-    TODO: Output the calculated weekly paycheck.
-
-END paycheck_calculator
-
+    T
 
 # === References ===
 # TODO: List outside sources or assistance you actually used, or delete this line.
