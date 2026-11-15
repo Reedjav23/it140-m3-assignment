@@ -8,7 +8,7 @@
 # Use clear indentation and ALLCAPS pseudocode keywords, such as GET (input),
 # PUT (output), LET (assignment), IF, ELSE, and ENDIF where they fit your design.
 
-START paycheck_
+START paycheck_calculator
     GET hours_worked
 
     IF hours_worked <= 40 THEN
@@ -21,3 +21,4 @@ START paycheck_
     ENDIF
 
     PUT weekly_pay
+   END paycheck_calculator
